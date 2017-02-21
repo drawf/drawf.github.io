@@ -9,7 +9,7 @@
       <content type="html"><![CDATA[<h3 id="放在前边"><a href="#放在前边" class="headerlink" title="放在前边"></a>放在前边</h3><blockquote>
 <p>注：本篇是C语言的基础知识补习的第一篇，共两篇，需要读者有一定的编程经验。</p>
 </blockquote>
-<p><a href="https://github.com/drawf/demo.retrofit" target="_blank" rel="external">demo.c传送门</a></p>
+<p><a href="https://github.com/drawf/demo.c" target="_blank" rel="external">demo.c传送门</a></p>
 <h3 id="C-C-的开发工具"><a href="#C-C-的开发工具" class="headerlink" title="C/C++的开发工具"></a>C/C++的开发工具</h3><p>链接: <a href="https://pan.baidu.com/s/1eSh1Uuu" target="_blank" rel="external">https://pan.baidu.com/s/1eSh1Uuu</a> 密码: sp3t</p>
 <p>CLion for Mac 2016.3 版本，CMake workflow、Modern C and C++、Semantic highlighting等新特性，<br>CLion 是一款由JetBrains出品的强大的C/C++开发工具，支持Windows、Mac、Linux平台，是现代的智能集成开发工具，支持各种功能，如代码自动完成、提醒、版本控制工具等，支持C、C++、 C++11 等标准，非常的不错！</p>
 <h3 id="C语言相关"><a href="#C语言相关" class="headerlink" title="C语言相关"></a>C语言相关</h3><h4 id="预处理指令-include"><a href="#预处理指令-include" class="headerlink" title="预处理指令-#include"></a>预处理指令-<em>#include</em></h4><p><code>#include &lt;stdio.h&gt;</code>意思是引用<code>stdio.h</code>头文件，在编译器实际编译之前，查找到该文件后把其中的所有内容复制到当前文件内并删除当前语句。</p>
